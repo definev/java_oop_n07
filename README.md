@@ -1,6 +1,7 @@
 # Bài tập lớn môn học: Lập trình hướng đối tượng
 
-Dự án môn học: Phần mềm quản lý gửi xe
+Dự án môn học: Phần mềm quản lý gửi xe.
+Link code: https://github.com/definev/java_oop_n07
 
 ## Thành viên nhóm
 
